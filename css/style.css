@@ -164,7 +164,7 @@ span:nth-of-type(2){
 
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
 
   body{
     background: hsl(229, 57%, 11%);
